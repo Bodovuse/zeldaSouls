@@ -21,7 +21,6 @@ level.py created
 Collisions work
     - apply horizontal movement 
         - check horizontal (x) collisions
-
     - apply vertical movement
         - check vertical (y) collisions
     (49:46)
