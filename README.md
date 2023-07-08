@@ -4,16 +4,16 @@ level.py created
 
 - calls settings.py
     - holds map
-        -location of Rocks and Player
+        - location of Rocks and Player
 
 - calls tile.py
     - holds Rock image to place on map
     - holds rock characteristics
 
 - calls player.py
-    -holds player chatacteristics
+    - holds player chatacteristics
         - speed
-        -direction
+        - direction
 
 
 01-07-23 16:14----------------------------------------------
