@@ -19,6 +19,7 @@ level.py created
 01-07-23 16:14----------------------------------------------
 
 Collisions work
+
     - apply horizontal movement 
         - check horizontal (x) collisions
     - apply vertical movement
@@ -26,6 +27,7 @@ Collisions work
     (49:46)
 
 *Bugs
+
     - issues with corners in collisions
         - player clipping
     - issues with both vertical and horizontal collisions
@@ -33,12 +35,15 @@ Collisions work
 02-07-23--------------------------------------------------
 
 Camera
+
     - screen now follows player character
 
 Hitboxes
+
     - player now appears infront/behind sprites with overlap
 
 BUG FIX
+
     - fixed collisions bug
         - player was clipping through walls
 
