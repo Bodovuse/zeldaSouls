@@ -45,6 +45,8 @@ Hitboxes
 BUG FIX
 
     - fixed collisions bug
-        - player was clipping through walls
 
 (1:11:24)
+
+Graphics
+
